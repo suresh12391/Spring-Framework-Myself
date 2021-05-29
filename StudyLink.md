@@ -17,6 +17,7 @@
 #### GitHub Links:
 - https://github.com/mightyjava?tab=repositories&q=spring&type=&language=&sort=
 - https://github.com/JavaInUse?tab=repositories&q=spring&type=&language=&sort=
+- https://github.com/in28minutes/spring-boot-examples
 
 
 #### Fresher Interview Question:
