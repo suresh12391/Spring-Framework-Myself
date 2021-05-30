@@ -12,6 +12,7 @@
 - https://www.springboottutorial.com/spring-boot-projects-with-code-examples
 - https://dzone.com/articles/build-and-package-a-microservices-architecture-wit
 - https://github.com/koushikkothagal/spring-boot-microservices-workshop
+- https://dzone.com/articles/bootstrapping-microservices-your-microservice-arch
 
 
 #### GitHub Links:
